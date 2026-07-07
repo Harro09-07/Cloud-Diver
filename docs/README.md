@@ -1,4 +1,7 @@
-#Cloud Diver
+Cloud Diver
+
+<img width="1628" height="1094" alt="image" src="https://github.com/user-attachments/assets/7e508fc8-0231-4c87-b3a9-c972c1f05085" />
+
 
 A (planned to be) Semiautonomous drone designed to sample otherwise inaccesible parts of weather systems utilizing a novel wing folding design allowing rapid dives through adverse wind conditions that would otherwise damage or destroy a conventional aircraft or drone.
 
