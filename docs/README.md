@@ -17,4 +17,4 @@ Additional modules, including a mechanism to allow launch from other flight plat
 
 Planned Features: Deformable wings to allow greater control authority 
 Autonoumous "Return to home" capability in case of signal loss
-Wind speed and direction monitoring, as well as percipitaion detection.
+Wind speed and direction monitoring, as well as precipitation detection.
