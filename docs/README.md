@@ -1,6 +1,7 @@
 # Cloud Diver
 
-<img width="1784" height="864" alt="Screenshot 2026-07-11 161429" src="https://github.com/user-attachments/assets/0b2235de-01c3-4372-b6c7-6dc3540dbe8b" />
+<img width="1270" height="1120" alt="Screenshot 2026-07-11 205637" src="https://github.com/user-attachments/assets/8946fa42-d4bd-4d62-a1a2-af5cda986b6c" />
+
 
 
 
