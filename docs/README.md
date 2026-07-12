@@ -44,4 +44,5 @@ See the electronic mounting locations for information on intended mounts for non
 
 ## Current Prototype: Version 0.5 "Knockoff"
 <img width="468" height="624" alt="Picture1" src="https://github.com/user-attachments/assets/53268b46-afaa-4e0d-a614-8a6fbcb80421" />
+
 Based on version 1 CAD, with alternate components and missing sections, used for fit and ground testing.
