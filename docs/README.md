@@ -41,3 +41,7 @@ As it stands, the only way to collect data on the inside of storms is via expens
 ## Notes
 Assembly is straight forward, the rods pass through 3 identical holes on each part and then all parts snap together using the inbuilt pegs.
 See the electronic mounting locations for information on intended mounts for non printed components.
+
+## Current Prototype: Version 0.5 "Knockoff"
+<img width="468" height="624" alt="Picture1" src="https://github.com/user-attachments/assets/53268b46-afaa-4e0d-a614-8a6fbcb80421" />
+Based on version 1 CAD, with alternate components and missing sections, used for fit and ground testing.
