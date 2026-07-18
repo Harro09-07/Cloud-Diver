@@ -43,7 +43,10 @@ As it stands, the only way to collect data on the inside of storms is via expens
 Assembly is straight forward, the rods pass through 3 identical holes on each part and then all parts snap together using the inbuilt pegs.
 See the electronic mounting locations for information on intended mounts for non printed components.
 
-## Current Prototype: Version 0.5 "Knockoff"
-<img width="468" height="624" alt="Picture1" src="https://github.com/user-attachments/assets/53268b46-afaa-4e0d-a614-8a6fbcb80421" />
+## Current Prototype: Version 1.5 "Minima"
 
-Based on version 1 CAD, with alternate components and missing sections (hence "knockoff"), used for fit and ground testing.
+<img width="3024" height="4032" alt="IMG_2898" src="https://github.com/user-attachments/assets/3fd8c718-179c-4adc-9953-361323fce42f" />
+
+Based on a mix of version 1 and 2 cad components, "minima" represents the minimum viabke product for flight testing, incorporating onboard sampling electronics. Used for weight and balance testing, wing design validation, and soon initial flight testing.
+
+(note: V1 was intended to be the full assembly of the V1 cad, as V1 cad was superceded prior to completion, v1 was scrapped and parts rolled into v2)
