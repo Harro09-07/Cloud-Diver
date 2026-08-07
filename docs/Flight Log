@@ -1,0 +1,29 @@
+Cloud Diver Flight Log:
+Ground test 1:
+Roll and Pitch control working, yaw control not so much (not sure it will ever work, might not need it)
+EDF Working well, though even with deflector piping the thrust is quite off axis.
+
+Flight test 1:
+Roll and pitch working, pitch trimmed to minimum to hopefully offset off axis thrust.
+EDF run up acceptable.
+Note: outer wing segments not in place. Not final flight hardware, most electronics uninstalled or replaced with subpar replacements.
+Goal: prove flight capability
+Launch type: thrown
+Result: crash
+Reason: combination of pilot overload (unable to manipulate thrust, roll and pitch while launching aircraft), insufficient lift (unknown if due to stall, or simple lack of wing area), off axis thrust forcing nose down attitude.
+Damage: EDF unseated but working, transmitter disconnected, aft section of tail broken off with 5 holding pins sheared, remaining two holes damaged, Elevons detached but were not damaged, main frame bent by approximately 5 degrees, right wing bent at 45 degrees between first and second wing segment. All parts designed to hold electronics survived with minimal damage.
+Notes: based on scuffing and damage indicators, first point of contact was the rear corner of the right wing, indicating a nose up attitude at time of crash, meaning some amount of control authority was being exerted.
+Rectification: Outer wing segments will be added before next test flight, landing gear will be added to the nose cone and aft wing box, new deflector piping will be made to deflect the thrust through the center of gravity, additional reinforcement will be added in the form of friction fit pegs between segments, tail will be redesigned to allow easier and more consistent mounting of elevon servos, general structural reinforcement needed- bolt on package ideal. Flight computer for decrease pilot workload advisable.
+Successes: individual subassemblies work, overall design needs very limited changes, printed components held up well, no major damage despite crash.
+
+Ground test 2:
+Full reassembly and rewire completed after disassembly due to travel
+Left Rudderon exhibited incorrect zeroing, being approximately 80 degrees from centered without control input. Right rudderon damaged during transit, detached from mounting. Redesign required.
+Flight test 2 postponed due to damage to second left wing segment and right rudderon
+
+Aerodynamics test 1:
+Utilizing a leaf blower, a test of wing flex under lift was undertaken using undamaged right wing.
+At full power, wing demonstrated limited flex, primarily around the inner and outer wing joint. This is acceptable and desirable, as it brings the outer wing closer to level with the inner wing thereby increasing lift.
+Buffeting of the remaining rudderon observed, given pending redesign this is considered a non-issue.
+
+
