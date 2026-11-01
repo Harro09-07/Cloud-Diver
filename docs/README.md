@@ -43,10 +43,10 @@ As it stands, the only way to collect data on the inside of storms is via expens
 Assembly is straight forward, the rods pass through 3 identical holes on each part and then all parts snap together using the inbuilt pegs.
 See the electronic mounting locations for information on intended mounts for non printed components.
 
-## Current Prototype: Version 1.5 "Minima"
+## Current Prototype: Version 2.5 "Icarus"
 
 <img width="3024" height="4032" alt="IMG_2898" src="https://github.com/user-attachments/assets/3fd8c718-179c-4adc-9953-361323fce42f" />
 
-Based on a mix of version 1 and 2 cad components, "minima" represents the minimum viabke product for flight testing, incorporating onboard sampling electronics. Used for weight and balance testing, wing design validation, and soon initial flight testing.
+Based on a mix of version 1 and 2 cad components, with the addition of new Vase Mode wings "Icarus" is a testbed for improvements for aerofoil design. Used for flight testing.
 
 (note: V1 was intended to be the full assembly of the V1 cad, as V1 cad was superceded prior to completion, v1 was scrapped and parts rolled into v2)
