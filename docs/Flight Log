@@ -26,4 +26,49 @@ Utilizing a leaf blower, a test of wing flex under lift was undertaken using und
 At full power, wing demonstrated limited flex, primarily around the inner and outer wing joint. This is acceptable and desirable, as it brings the outer wing closer to level with the inner wing thereby increasing lift.
 Buffeting of the remaining rudderon observed, given pending redesign this is considered a non-issue.
 
+Ground test 3:
+Initial test of Version 3 Wiring
+Success, pitch and roll working as intended.
+
+Flight Test 2:
+Aborted due to damage to avionics bay, requiring redesign and update to version 3.1
+
+Ground test 4:
+Inital test of V3.1 wiring
+Success, pitch and roll working as intended.
+
+Flight test 3:
+Inital flight test of V3.1
+EDF Runup acceptable
+Wings fixed using adhesive tape, not ideal but should be sufficent for a short hop
+Goal: Proof of flight
+Result: Failure
+Cause: right wing became unfixed during launch, causing immidiate roll over and crash into ground.
+Damage: avionics bay written off, elevators written off, all over parts acceptable for use in next prototype.
+Rectification: none, beyond proper securement of wings prior to next flight
+
+Ground Test 5:
+Inital test of V3.2 wiring 
+Success, pitch and roll working as intended
+
+Flight Test 4:
+Initial flight test of V3.2
+Goal: Proof of flight
+Result: Failure
+Cause: Insufficent stability on yaw axis, off center thrust resulted in spin and crash
+Damage: Majority of non-electrical components written off.
+Rectification: Version 3 and derivatives cannot be satisfactorally manufactured with avalible tools, in particular the lack of ability to drill bolt holes through tailplane spars requires a rollback to V2.
+
+Ground Test 6:
+Inital test of V2.5 wiring
+Success, pitch and roll working, uncommanded engine activation attributed to incorrect input settings on transmitter.
+
+Flight test 5:
+Initial Flight test of V2.5
+Goal: Proof of flight
+Result: Partial Success
+Cause: Takeoff was acceptable, with the caviat of nose-up tendancies due to battery shifting. Limited control established (Full down elevator produced a momentary stop in attitude change) before gust of wind caught the aircraft and caused a stall. Limited control continued through stall before crash into terrain.
+Damage: Wings written off, one rear fin written off, all other components acceptable
+Rectification: Stronger control authority is required, introduction of addition control surfaces is planned. Battery must be fully secured before launch.
+
 
