@@ -24,7 +24,8 @@ Oversized full moving combination Elevator, rudder, and aileron control surfaces
 A modular design built around individual sections fitted together on 2mm steel rods.
 
 ### In Progress features: 
-A bleed air system to allow even greater takeoff performance with wings extended and flight control with wings retracted
+
+Vase Mode printable wings for quicker repair and replacement
 
 Additional modules, including a mechanism to allow launch from other flight platforms
 
