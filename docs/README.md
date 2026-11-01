@@ -45,7 +45,8 @@ See the electronic mounting locations for information on intended mounts for non
 
 ## Current Prototype: Version 2.5 "Icarus"
 
-<img width="3024" height="4032" alt="IMG_2898" src="https://github.com/user-attachments/assets/3fd8c718-179c-4adc-9953-361323fce42f" />
+<img width="2880" height="2160" alt="24" src="https://github.com/user-attachments/assets/88ec9a42-1a0e-4734-8010-1d24c95ec68d" />
+
 
 Based on a mix of version 1 and 2 cad components, with the addition of new Vase Mode wings "Icarus" is a testbed for improvements for aerofoil design. Used for flight testing.
 
