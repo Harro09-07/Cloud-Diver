@@ -36,6 +36,9 @@ Autonoumous "Return to home" capability in case of signal loss
 
 Wind speed and direction monitoring, as well as precipitation detection.
 
+Onboard data streaming, to allow for data to be recovered even if the airframe is lost
+
+
 ## Purpose
 As it stands, the only way to collect data on the inside of storms is via expensive and complex doppler radar systems, this project aims to change that with an accessable and cheap platform by which to gather data at the source
 
